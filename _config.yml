@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qihui Zhang's Homepage"
-description              : "Qihui Zhang is a undergraduate student in Sichuan University, majoring in Software engineering."
+description              : #description
 repository               : "Mask-Hui/github.io"
 google_scholar_stats_use_cdn : true
 
