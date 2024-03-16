@@ -46,11 +46,40 @@ At present, I have the privilege of being a visiting student at the LAIR Lab, <a
 
 [Llm-as-a-coauthor: The challenges of detecting llm-human mixcase](https://arxiv.org/pdf/2401.05952.pdf)
 
-<p><strong>Qihui Zhang</strong>*, Chujie Gao*, Dongping Chen*, Yue Huang, Yao Wan, Lichao Sun (*: equal contribution)
-</p>
+Qihui Zhang*, Chujie Gao*, Dongping Chen*, Yue Huang, Yao Wan, Lichao Sun (*: equal contribution)
+
 </div>
 
 </div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICLR 2024</div>
+      <img src='images/metatool_00.png' alt="sym" width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+[MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use](https://arxiv.org/pdf/2310.03128.pdf)
+
+Yue Huang, Jiawen Shi, Yuan Li, Chenrui Fan, Siyuan Wu, **Qihui Zhang**, Yixin Liu, Pan Zhou, Yao Wan, Neil Zhenqiang Gong, Lichao Sun
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='images/trustllm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TrustLLM: Trustworthiness in Large Language Models](https://arxiv.org/pdf/2401.05561.pdf)
+
+Yue Huang \*, Lichao Sun \*, Haoran Wang \*, Siyuan Wu \*, **Qihui Zhang** \*, Chujie Gao \*, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, et al. (*: major contribution)
+
+**Toolkit & Code**: https://github.com/HowieHwong/TrustLLM
+</div>
+</div>
+
 <!-- 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -60,9 +89,8 @@ At present, I have the privilege of being a visiting student at the LAIR Lab, <a
 -->
 
 - [Triplet-constraint Transformer with Multi-scale Refinement for Dose Prediction in Radiotherapy](https://github.com)
-<div class='paper-box-text' markdown="1">
-  <p>Lu Wen*, <strong>Qihui Zhang</strong>*, Zhenghao Feng, Yuanyuan Xu, Xiao Chen, Jiliu Zhou, Yan Wang <strong>ISBI 2024</strong> (*: equal contribution)
-</p>
+  Lu Wen \*, **Qihui Zhang** \*, Zhenghao Feng, Yuanyuan Xu, Xiao Chen, Jiliu Zhou, Yan Wang <strong>ISBI 2024 (*: equal contribution)
+
 </div>
 
 # 🎖 Honors and Awards
