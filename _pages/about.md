@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hello, I’m Qihui Zhang (张祺珲), an undergraduate student at <a href='https://www.scu.edu.cn/'>Sichuan University</a>. I’m currently in my third year of undergraduate studies.
+Hello, I’m Qihui Zhang (张祺珲), an undergraduate student at <a href='https://www.scu.edu.cn/'>Sichuan University</a>. I’m currently in my third year of undergraduate studies. My GPA is **3.91**/4.00, ranked **3%** in the grade.
 
 My research interest includes Large Language Models and Trustworthy AI. I have published 3 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=ZdgtY0EAAAAJ'> Google Scholar citations <strong><span id='total_cit'>50+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=ZdgtY0EAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FMask-Hui%2FMask-Hui.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -61,16 +61,20 @@ At present, I have the privilege of being a visiting student at the LAIR Lab, <a
 
 - [Triplet-constraint Transformer with Multi-scale Refinement for Dose Prediction in Radiotherapy](https://github.com)
 <div class='paper-box-text' markdown="1">
-<p>Lu Wen*, <strong>Qihui Zhang</strong>*, Zhenghao Feng, Yuanyuan Xu, Xiao Chen, Jiliu Zhou, Yan Wang <strong>ISBI 2024</strong> (*: equal contribution)
+  <p>Lu Wen*, <strong>Qihui Zhang</strong>*, Zhenghao Feng, Yuanyuan Xu, Xiao Chen, Jiliu Zhou, Yan Wang <strong>ISBI 2024</strong> (*: equal contribution)
 </p>
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* National Scholarship. 
-- *2022.09* Sichuan Province Comprehensive Quality A-level Certificate. 
+- *2021.10* National Scholarship.
+- *2024.01* National College Computer Ability Challenge - **National First Prize**.
+- *2022.10* International "Internet +" College Student Innovation and Entrepreneurship Competition - **National Third Prize**.
+- *2023.10* Undergraduate Honours Bachelor's Degree Program.
+- *2022.09* Sichuan Province Comprehensive Quality A-level Certificate.
+- *2022.10* National College Student Mathematical Modeling Competition **- Provincial First Prize**.
 
 # 📖 Educations
-- *2020.09 - 2025.06 (now)*, BEng., Software Engineering, Sichuan University. 
+- *2020.09 - 2025.06 (now)*, BEng., Software Engineering, Sichuan University.
 
 <!-- 
 # 💬 Invited Talks
