@@ -46,8 +46,9 @@ At present, I have the privilege of being a visiting student at the LAIR Lab, <a
 
 [Llm-as-a-coauthor: The challenges of detecting llm-human mixcase](https://arxiv.org/pdf/2401.05952.pdf)
 
-Qihui Zhang*, Chujie Gao*, Dongping Chen*, Yue Huang, Yao Wan, Lichao Sun (*: equal contribution)
+**Qihui Zhang** \*, Chujie Gao \*, Dongping Chen \*, Yue Huang, Yao Wan, Lichao Sun (*: equal contribution)
 
+[**Dataset & Code**]([https://github.com/HowieHwong/TrustLLM](https://github.com/Dongping-Chen/MixSet))
 </div>
 
 </div>
@@ -76,7 +77,7 @@ Yue Huang, Jiawen Shi, Yuan Li, Chenrui Fan, Siyuan Wu, **Qihui Zhang**, Yixin L
 
 Yue Huang \*, Lichao Sun \*, Haoran Wang \*, Siyuan Wu \*, **Qihui Zhang** \*, Chujie Gao \*, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, et al. (*: major contribution)
 
-**Toolkit & Code**: https://github.com/HowieHwong/TrustLLM
+[**Toolkit & Code**](https://github.com/HowieHwong/TrustLLM) | [**Website**](https://trustllmbenchmark.github.io/TrustLLM-Website/)
 </div>
 </div>
 
@@ -91,7 +92,6 @@ Yue Huang \*, Lichao Sun \*, Haoran Wang \*, Siyuan Wu \*, **Qihui Zhang** \*, C
 - [Triplet-constraint Transformer with Multi-scale Refinement for Dose Prediction in Radiotherapy](https://github.com)
   Lu Wen \*, **Qihui Zhang** \*, Zhenghao Feng, Yuanyuan Xu, Xiao Chen, Jiliu Zhou, Yan Wang <strong>ISBI 2024 (*: equal contribution)
 
-</div>
 
 # 🎖 Honors and Awards
 - *2021.10* National Scholarship.
