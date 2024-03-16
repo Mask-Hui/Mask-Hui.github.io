@@ -38,7 +38,7 @@ At present, I have the privilege of being a visiting student at the LAIR Lab, <a
   <div class='paper-box-image'>
     <div>
       <div class="badge">NAACL 2024</div>
-      <img src='images/MixSet_generation.png' alt="sym" width="40%">
+      <img src='images/MixSet_generation.png' alt="sym" width="100%">
     </div>
   </div>
   
