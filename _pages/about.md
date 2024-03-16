@@ -59,8 +59,12 @@ At present, I have the privilege of being a visiting student at the LAIR Lab, <a
 
 -->
 
-- [Triplet-constraint Transformer with Multi-scale Refinement for Dose Prediction in Radiotherapy](https://github.com), Lu Wen*, <p>Lu Wen*, <strong>Qihui Zhang</strong>*, Zhenghao Feng, Yuanyuan Xu, Xiao Chen, Jiliu Zhou, Yan Wang **ISBI 2020** (*: equal contribution)
+- [Triplet-constraint Transformer with Multi-scale Refinement for Dose Prediction in Radiotherapy](https://github.com)
+<div class='paper-box-text' markdown="1">
+<p>Lu Wen*, <strong>Qihui Zhang</strong>*, Zhenghao Feng, Yuanyuan Xu, Xiao Chen, Jiliu Zhou, Yan Wang <strong>ISBI 2024</strong> (*: equal contribution)
 </p>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.10* National Scholarship. 
 - *2022.09* Sichuan Province Comprehensive Quality A-level Certificate. 
