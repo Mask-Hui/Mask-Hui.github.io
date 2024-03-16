@@ -46,8 +46,8 @@ At present, I have the privilege of being a visiting student at the LAIR Lab, <a
 
 [Llm-as-a-coauthor: The challenges of detecting llm-human mixcase](https://arxiv.org/pdf/2401.05952.pdf)
 
-**Qihui Zhang***, Chujie Gao*, Dongping Chen*, Yue Huang, Yao Wan, Lichao Sun (*: equal contribution)
-
+<p><strong>Qihui Zhang</strong>*, Chujie Gao*, Dongping Chen*, Yue Huang, Yao Wan, Lichao Sun (*: equal contribution)
+</p>
 </div>
 
 </div>
@@ -59,8 +59,8 @@ At present, I have the privilege of being a visiting student at the LAIR Lab, <a
 
 -->
 
-- [Triplet-constraint Transformer with Multi-scale Refinement for Dose Prediction in Radiotherapy](https://github.com), Lu Wen*, **Qihui Zhang***, Zhenghao Feng, Yuanyuan Xu, Xiao Chen, Jiliu Zhou, Yan Wang **ISBI 2020** (*: equal contribution)
-
+- [Triplet-constraint Transformer with Multi-scale Refinement for Dose Prediction in Radiotherapy](https://github.com), Lu Wen*, <p>Lu Wen*, <strong>Qihui Zhang</strong>*, Zhenghao Feng, Yuanyuan Xu, Xiao Chen, Jiliu Zhou, Yan Wang **ISBI 2020** (*: equal contribution)
+</p>
 # 🎖 Honors and Awards
 - *2021.10* National Scholarship. 
 - *2022.09* Sichuan Province Comprehensive Quality A-level Certificate. 
