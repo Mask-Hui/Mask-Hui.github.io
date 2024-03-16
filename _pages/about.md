@@ -34,13 +34,14 @@ At present, I have the privilege of being a visiting student at the LAIR Lab, <a
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024</div><img src='images/MixSet_generation.png' alt="sym" width="40%"></div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024</div><img src='images/MixSet_generation.png' alt="sym" width="40%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Llm-as-a-coauthor: The challenges of detecting llm-human mixcase](https://arxiv.org/pdf/2401.05952.pdf)
 
 **Qihui Zhang***, Chujie Gao*, Dongping Chen*, Yue Huang, Yao Wan, Lichao Sun (*: equal contribution)
 
+</div>
 <!-- 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
