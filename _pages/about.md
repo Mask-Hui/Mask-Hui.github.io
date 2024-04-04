@@ -27,7 +27,7 @@ My research interest includes Large Language Models and Trustworthy AI. I have p
 At present, I have the privilege of being a visiting student at the LAIR Lab, <a href = 'https://www2.lehigh.edu/'>Lehigh University</a>, where I work under the guidance of <a href = 'https://lichao-sun.github.io/'>Prof. Lichao Sun</a>. Before this, I was under the mentorship of <a href = 'https://cs.scu.edu.cn/info/1359/16745.htm'>Prof. Yan Wang</a> at Sichuan University.
 
 # 🔥 News
-- *2024.03.14:* &nbsp;🎉🎉 Mixcase has been accepted by NAACL 2024!
+- *2024.03.14:* &nbsp;🎉🎉 Mixcase has been accepted by NAACL 2024! Congratulations to [Chujie](https://flossiee.github.io/), [Dongping](https://dongping-chen.github.io/) and [Yue](https://howiehwong.github.io/)! 
 - *2024.02.03:* &nbsp;🎉🎉 A paper has been accepted by ISBI 2024!
 - *2024.01.15:* &nbsp;🎉🎉 MetaTool has been accepted by ICLR 2024!
 
