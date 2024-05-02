@@ -27,8 +27,10 @@ My research interest includes Large Language Models and Trustworthy AI. I have p
 At present, I have the privilege of being a visiting student at the LAIR Lab, <a href = 'https://www2.lehigh.edu/'>Lehigh University</a>, where I work under the guidance of <a href = 'https://lichao-sun.github.io/'>Prof. Lichao Sun</a>. Before this, I was under the mentorship of <a href = 'https://cs.scu.edu.cn/info/1359/16745.htm'>Prof. Yan Wang</a> at Sichuan University.
 
 # 🔥 News
+- *2024.05.02:* &nbsp;🎉🎉 TrustLLM has been accepted by ICML 2024! Congratulations to [Yue](https://howiehwong.github.io/) and [Chujie](https://flossiee.github.io/)!
+- *2024.05.02:* &nbsp;🎉🎉 MLLM-as-a-Judge has been accepted by ICML 2024! Congratulations to [Dongping](https://dongping-chen.github.io/)! 
 - *2024.03.14:* &nbsp;🎉🎉 Mixcase has been accepted by NAACL 2024! Congratulations to [Chujie](https://flossiee.github.io/), [Dongping](https://dongping-chen.github.io/) and [Yue](https://howiehwong.github.io/)! 
-- *2024.02.03:* &nbsp;🎉🎉 A paper has been accepted by ISBI 2024!
+- *2024.02.03:* &nbsp;🎉🎉 Our paper has been accepted by ISBI 2024!
 - *2024.01.15:* &nbsp;🎉🎉 MetaTool has been accepted by ICLR 2024!
 
 
@@ -53,6 +55,28 @@ At present, I have the privilege of being a visiting student at the LAIR Lab, <a
 
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/trustllm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TrustLLM: Trustworthiness in Large Language Models](https://arxiv.org/pdf/2401.05561.pdf)
+
+Yue Huang \*, Lichao Sun \*, Haoran Wang \*, Siyuan Wu \*, **Qihui Zhang** \*, Chujie Gao \*, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, et al. (*: major contribution)
+
+[**Toolkit & Code**](https://github.com/HowieHwong/TrustLLM) | [**Website**](https://trustllmbenchmark.github.io/TrustLLM-Website/)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/mllm-judge.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark](https://arxiv.org/abs/2402.04788)
+
+Dongping Chen \*, Ruoxi Chen \*, Shilin Zhang \*, Yinuo Liu \*, Yaochen Wang \*, Huichi Zhou \*, **Qihui Zhang** \*, Pan Zhou, Yao Wan, Lichao Sun (*: equal contribution)
+
+</div>
+</div>
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -70,26 +94,9 @@ Yue Huang, Jiawen Shi, Yuan Li, Chenrui Fan, Siyuan Wu, **Qihui Zhang**, Yixin L
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='images/trustllm.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[TrustLLM: Trustworthiness in Large Language Models](https://arxiv.org/pdf/2401.05561.pdf)
 
-Yue Huang \*, Lichao Sun \*, Haoran Wang \*, Siyuan Wu \*, **Qihui Zhang** \*, Chujie Gao \*, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, et al. (*: major contribution)
 
-[**Toolkit & Code**](https://github.com/HowieHwong/TrustLLM) | [**Website**](https://trustllmbenchmark.github.io/TrustLLM-Website/)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='images/mllm-judge.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark](https://arxiv.org/abs/2402.04788)
-
-Dongping Chen \*, Ruoxi Chen \*, Shilin Zhang \*, Yinuo Liu \*, Yaochen Wang \*, Huichi Zhou \*, **Qihui Zhang** \*, Pan Zhou, Yao Wan, Lichao Sun (*: equal contribution)
-
-</div>
-</div>
 
 <!-- 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
