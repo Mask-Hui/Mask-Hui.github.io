@@ -20,18 +20,18 @@ redirect_from:
 
 Hello, I’m Qihui Zhang (张祺珲), an undergraduate student at <a href='https://www.scu.edu.cn/'>Sichuan University</a>. I’m currently in my third year of undergraduate studies. My GPA is **3.91**/4.00, ranked **3%** in the grade.
 
-My research interest includes Large Language Models and Trustworthy AI. I have published 3 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=ZdgtY0EAAAAJ'> Google Scholar citations <strong><span id='total_cit'>50+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=ZdgtY0EAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FMask-Hui%2FMask-Hui.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes Large Language Models and Trustworthy AI. I have published 5 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=ZdgtY0EAAAAJ'> Google Scholar citations <strong><span id='total_cit'>100+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=ZdgtY0EAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FMask-Hui%2FMask-Hui.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 
 At present, I have the privilege of being a visiting student at the LAIR Lab, <a href = 'https://www2.lehigh.edu/'>Lehigh University</a>, where I work under the guidance of <a href = 'https://lichao-sun.github.io/'>Prof. Lichao Sun</a>. Before this, I was under the mentorship of <a href = 'https://cs.scu.edu.cn/info/1359/16745.htm'>Prof. Yan Wang</a> at Sichuan University.
 
 # 🔥 News
-- *2024.05.02:* &nbsp;🎉🎉 TrustLLM has been accepted by ICML 2024! Congratulations to [Yue](https://howiehwong.github.io/) and [Chujie](https://flossiee.github.io/)!
-- *2024.05.02:* &nbsp;🎉🎉 MLLM-as-a-Judge has been accepted by ICML 2024! Congratulations to [Dongping](https://dongping-chen.github.io/)! 
-- *2024.03.14:* &nbsp;🎉🎉 Mixcase has been accepted by NAACL 2024! Congratulations to [Chujie](https://flossiee.github.io/), [Dongping](https://dongping-chen.github.io/) and [Yue](https://howiehwong.github.io/)! 
-- *2024.02.03:* &nbsp;🎉🎉 Our paper has been accepted by ISBI 2024!
-- *2024.01.15:* &nbsp;🎉🎉 MetaTool has been accepted by ICLR 2024!
+- *2024.05.02:* &nbsp;🎉🎉 TrustLLM has been accepted by **ICML** 2024! Congratulations to [Yue](https://howiehwong.github.io/) and [Chujie](https://flossiee.github.io/)!
+- *2024.05.02:* &nbsp;🎉🎉 MLLM-as-a-Judge has been accepted by **ICML** 2024! Congratulations to [Dongping](https://dongping-chen.github.io/)! 
+- *2024.03.14:* &nbsp;🎉🎉 Mixcase has been accepted by **NAACL** 2024! Congratulations to [Chujie](https://flossiee.github.io/), [Dongping](https://dongping-chen.github.io/) and [Yue](https://howiehwong.github.io/)! 
+- *2024.02.03:* &nbsp;🎉🎉 Our paper has been accepted by **ISBI** 2024!
+- *2024.01.15:* &nbsp;🎉🎉 MetaTool has been accepted by **ICLR** 2024!
 
 
 # 📝 Publications 
