@@ -67,7 +67,7 @@ Yue Huang \*, Lichao Sun \*, Haoran Wang \*, Siyuan Wu \*, **Qihui Zhang** \*, C
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/mllm-judge.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/mllm-judgev2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark](https://arxiv.org/abs/2402.04788)
@@ -114,9 +114,11 @@ Yue Huang, Jiawen Shi, Yuan Li, Chenrui Fan, Siyuan Wu, **Qihui Zhang**, Yixin L
 - *2021.10* National Scholarship.
 - *2024.01* National College Computer Ability Challenge - **National First Prize**.
 - *2022.10* International "Internet +" College Student Innovation and Entrepreneurship Competition - **National Third Prize**.
+- *2024.05* American College Mathematical Contest in Modeling - **International Honorable Mention**
+- *2024.05* National LanQiao Cup Algorithm Competition (Python Group) **- Provincial First Prize**.
+- *2022.10* National College Student Mathematical Modeling Competition **- Provincial First Prize**.
 - *2023.10* Undergraduate Honours Bachelor's Degree Program.
 - *2022.09* Sichuan Province Comprehensive Quality A-level Certificate.
-- *2022.10* National College Student Mathematical Modeling Competition **- Provincial First Prize**.
 
 # 📖 Educations
 - *2020.09 - 2025.06 (now)*, BEng., Software Engineering, Sichuan University.
