@@ -28,7 +28,7 @@ At present, I have the privilege of being a visiting student at the LAIR Lab, <a
 
 # 🔥 News
 - *2024.05.02:* &nbsp;🎉🎉 TrustLLM has been accepted by **ICML** 2024! Congratulations to [Yue](https://howiehwong.github.io/) and [Chujie](https://flossiee.github.io/)!
-- *2024.05.02:* &nbsp;🎉🎉 MLLM-as-a-Judge has been accepted by **ICML** 2024! Congratulations to [Dongping](https://dongping-chen.github.io/)! 
+- *2024.05.02:* &nbsp;🎉🎉 MLLM-as-a-Judge has been accepted by **ICML** 2024 **(Oral)**! Congratulations to [Dongping](https://dongping-chen.github.io/)! 
 - *2024.03.14:* &nbsp;🎉🎉 Mixcase has been accepted by **NAACL** 2024! Congratulations to [Chujie](https://flossiee.github.io/), [Dongping](https://dongping-chen.github.io/) and [Yue](https://howiehwong.github.io/)! 
 - *2024.02.03:* &nbsp;🎉🎉 Our paper has been accepted by **ISBI** 2024!
 - *2024.01.15:* &nbsp;🎉🎉 MetaTool has been accepted by **ICLR** 2024!
@@ -67,7 +67,7 @@ Yue Huang \*, Lichao Sun \*, Haoran Wang \*, Siyuan Wu \*, **Qihui Zhang** \*, C
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/mllm-judgev2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024 (Oral)</div><img src='images/mllm-judgev2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark](https://arxiv.org/abs/2402.04788)
