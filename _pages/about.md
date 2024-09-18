@@ -24,7 +24,7 @@ My research interests include Large Language Models and Trustworthy AI. I have p
 
 
 
-Since August 2024, I have been interning as an algorithm engineer at the Visual Technology Lab within the Alibaba DAMO Academy, focusing on foundational intelligent technologies. I was a visiting student at <a href = 'https://www2.lehigh.edu/'>Lehigh University</a> from April 2023 to May 2024, where I work under the guidance of <a href = 'https://lichao-sun.github.io/'>Prof. Lichao Sun</a>. Before this, I was under the mentorship of <a href = 'https://cs.scu.edu.cn/info/1359/16745.htm'>Prof. Yan Wang</a> at Sichuan University.
+Since August 2024, I have been interning as an algorithm engineer at the Visual Technology Lab in Alibaba <a href = 'https://damo.alibaba.com/'>DAMO Academy</a>, focusing on foundational intelligent technologies. I was a visiting student at <a href = 'https://www2.lehigh.edu/'>Lehigh University</a> from April 2023 to May 2024, where I work under the guidance of <a href = 'https://lichao-sun.github.io/'>Prof. Lichao Sun</a>. Before this, I was under the mentorship of <a href = 'https://cs.scu.edu.cn/info/1359/16745.htm'>Prof. Yan Wang</a> at Sichuan University.
 
 # 🔥 News
 - *2024.05.02:* &nbsp;🎉🎉 TrustLLM has been accepted by **ICML** 2024! Congratulations to [Yue](https://howiehwong.github.io/) and [Chujie](https://flossiee.github.io/)!
