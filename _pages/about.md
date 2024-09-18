@@ -113,6 +113,7 @@ Yue Huang, Jiawen Shi, Yuan Li, Chenrui Fan, Siyuan Wu, **Qihui Zhang**, Yixin L
 # 🎖 Honors and Awards
 - *2021.10* National Scholarship.
 - *2024.01* National College Computer Ability Challenge - **National First Prize**.
+- *2024.07* Chinese Collegiate Computing Competition - **National Third Prize**.
 - *2022.10* International "Internet +" College Student Innovation and Entrepreneurship Competition - **National Third Prize**.
 - *2024.05* American College Mathematical Contest in Modeling - **International Honorable Mention**
 - *2024.05* National LanQiao Cup Algorithm Competition (Python Group) **- Provincial First Prize**.
@@ -123,11 +124,11 @@ Yue Huang, Jiawen Shi, Yuan Li, Chenrui Fan, Siyuan Wu, **Qihui Zhang**, Yixin L
 # 📖 Educations
 - *2020.09 - 2025.06 (now)*, BEng., Software Engineering, Sichuan University.
 
+# 💻 Internships
+- *2024.08 - 2024.12 (now), Visual Technology Lab in Alibaba <a href = 'https://damo.alibaba.com/'>DAMO Academy</a>, China.
+
 <!-- 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
--->
