@@ -125,7 +125,8 @@ Yue Huang, Jiawen Shi, Yuan Li, Chenrui Fan, Siyuan Wu, **Qihui Zhang**, Yixin L
 - *2020.09 - 2025.06 (now)*, BEng., Software Engineering, Sichuan University.
 
 # 💻 Internships
-- *2024.08 - 2024.12 (now), Visual Technology Lab in Alibaba <a href = 'https://damo.alibaba.com/'>DAMO Academy</a>, China.
+- *2024.08 - 2024.12 (now)*, Visual Technology Lab in Alibaba <a href = 'https://damo.alibaba.com/'>DAMO Academy</a>, China.
+
 
 <!-- 
 # 💬 Invited Talks
