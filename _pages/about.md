@@ -36,6 +36,19 @@ Since August 2024, I have been interning as an algorithm engineer at the Visual 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/Honesty1_architecture.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The Best of Both Worlds: Toward an Honest and Helpful Large Language Model](https://arxiv.org/pdf/2406.00380)
+
+Chujie Gao \*, **Qihui Zhang** \*, Dongping Chen\*, Siyuan Wu\*, Yue Huang, Zhengyan Fu, Yao Wan, Xiangliang Zhang, Lichao Sun (*: equal contribution)
+
+[**Dataset & Code**](https://github.com/Flossiee/HonestyLLM)
+
+</div>
+</div>
+
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -50,7 +63,8 @@ Since August 2024, I have been interning as an algorithm engineer at the Visual 
 
 **Qihui Zhang** \*, Chujie Gao \*, Dongping Chen \*, Yue Huang, Yao Wan, Lichao Sun (*: equal contribution)
 
-[**Dataset & Code**]([https://github.com/HowieHwong/TrustLLM](https://github.com/Dongping-Chen/MixSet))
+[**Dataset & Code**](https://github.com/Dongping-Chen/MixSet) | [**Website**](https://llm-coauthor.github.io/)
+
 </div>
 
 </div>
