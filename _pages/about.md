@@ -64,8 +64,6 @@ Chujie Gao \*, **Qihui Zhang** \*, Dongping Chen\*, Siyuan Wu\*, Yue Huang, Zhen
 **Qihui Zhang** \*, Chujie Gao \*, Dongping Chen \*, Yue Huang, Yao Wan, Lichao Sun (*: equal contribution)
 
 [**Dataset & Code**](https://github.com/Dongping-Chen/MixSet) | [**Website**](https://llm-coauthor.github.io/)
-
-
 </div>
 
 </div>
@@ -78,8 +76,6 @@ Chujie Gao \*, **Qihui Zhang** \*, Dongping Chen\*, Siyuan Wu\*, Yue Huang, Zhen
 Yue Huang \*, Lichao Sun \*, Haoran Wang \*, Siyuan Wu \*, **Qihui Zhang** \*, Chujie Gao \*, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, et al. (*: major contribution)
 
 [**Toolkit & Code**](https://github.com/HowieHwong/TrustLLM) | [**Website**](https://trustllmbenchmark.github.io/TrustLLM-Website/)
-
-
 </div>
 </div>
 
@@ -91,9 +87,7 @@ Yue Huang \*, Lichao Sun \*, Haoran Wang \*, Siyuan Wu \*, **Qihui Zhang** \*, C
 
 Dongping Chen \*, Ruoxi Chen \*, Shilin Zhang \*, Yinuo Liu \*, Yaochen Wang \*, Huichi Zhou \*, **Qihui Zhang** \*, Pan Zhou, Yao Wan, Lichao Sun (*: equal contribution)
 
-[**Code**](https://github.com/Dongping-Chen/MLLM-Judge) | [**Website**](https://mllm-judge.github.io/) [**Data**](https://huggingface.co/datasets/shuaishuaicdp/MLLM-Judge)
-
-
+[**Code**](https://github.com/Dongping-Chen/MLLM-Judge) | [**Website**](https://mllm-judge.github.io/) | [**Data**](https://huggingface.co/datasets/shuaishuaicdp/MLLM-Judge)
 </div>
 </div>
 
