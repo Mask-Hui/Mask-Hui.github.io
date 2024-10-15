@@ -27,6 +27,8 @@ My research interests include Large Language Models and Trustworthy AI. I have p
 Since August 2024, I have been interning as an algorithm engineer at the Visual Technology Lab in Alibaba <a href = 'https://damo.alibaba.com/'>DAMO Academy</a>, focusing on foundational intelligent technologies. I was a visiting student at <a href = 'https://www2.lehigh.edu/'>Lehigh University</a> from April 2023 to May 2024, where I work under the guidance of <a href = 'https://lichao-sun.github.io/'>Prof. Lichao Sun</a>. Before this, I was under the mentorship of <a href = 'https://cs.scu.edu.cn/info/1359/16745.htm'>Prof. Yan Wang</a> at Sichuan University.
 
 # 🔥 News
+- *2024.09.29:* &nbsp;🎉🎉 I am going to continue my research career and study at Peking University, See you in Shenzhen in 2025.09!
+- *2024.09.25:* &nbsp;🎉🎉 HonestyLLM has been accepted by **NeurIPS** 2024! Congratulations to [Chujie](https://flossiee.github.io/)!
 - *2024.05.02:* &nbsp;🎉🎉 TrustLLM has been accepted by **ICML** 2024! Congratulations to [Yue](https://howiehwong.github.io/)!
 - *2024.05.02:* &nbsp;🎉🎉 MLLM-as-a-Judge has been accepted by **ICML** 2024 **(Oral)**! Congratulations to [Dongping](https://dongping-chen.github.io/)! 
 - *2024.03.14:* &nbsp;🎉🎉 Mixcase has been accepted by **NAACL** 2024 Findings! Congratulations to [Chujie](https://flossiee.github.io/), [Dongping](https://dongping-chen.github.io/)! 
