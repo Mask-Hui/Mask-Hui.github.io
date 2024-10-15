@@ -27,9 +27,9 @@ My research interests include Large Language Models and Trustworthy AI. I have p
 Since August 2024, I have been interning as an algorithm engineer at the Visual Technology Lab in Alibaba <a href = 'https://damo.alibaba.com/'>DAMO Academy</a>, focusing on foundational intelligent technologies. I was a visiting student at <a href = 'https://www2.lehigh.edu/'>Lehigh University</a> from April 2023 to May 2024, where I work under the guidance of <a href = 'https://lichao-sun.github.io/'>Prof. Lichao Sun</a>. Before this, I was under the mentorship of <a href = 'https://cs.scu.edu.cn/info/1359/16745.htm'>Prof. Yan Wang</a> at Sichuan University.
 
 # 🔥 News
-- *2024.05.02:* &nbsp;🎉🎉 TrustLLM has been accepted by **ICML** 2024! Congratulations to [Yue](https://howiehwong.github.io/) and [Chujie](https://flossiee.github.io/)!
+- *2024.05.02:* &nbsp;🎉🎉 TrustLLM has been accepted by **ICML** 2024! Congratulations to [Yue](https://howiehwong.github.io/)!
 - *2024.05.02:* &nbsp;🎉🎉 MLLM-as-a-Judge has been accepted by **ICML** 2024 **(Oral)**! Congratulations to [Dongping](https://dongping-chen.github.io/)! 
-- *2024.03.14:* &nbsp;🎉🎉 Mixcase has been accepted by **NAACL** 2024! Congratulations to [Chujie](https://flossiee.github.io/), [Dongping](https://dongping-chen.github.io/) and [Yue](https://howiehwong.github.io/)! 
+- *2024.03.14:* &nbsp;🎉🎉 Mixcase has been accepted by **NAACL** 2024 Findings! Congratulations to [Chujie](https://flossiee.github.io/), [Dongping](https://dongping-chen.github.io/)! 
 - *2024.02.03:* &nbsp;🎉🎉 Our paper has been accepted by **ISBI** 2024!
 - *2024.01.15:* &nbsp;🎉🎉 MetaTool has been accepted by **ICLR** 2024!
 
@@ -52,7 +52,7 @@ Chujie Gao \*, **Qihui Zhang** \*, Dongping Chen\*, Siyuan Wu\*, Yue Huang, Zhen
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">NAACL 2024</div>
+      <div class="badge">NAACL 2024 Findings</div>
       <img src='images/MixSet_generation.png' alt="sym" width="100%">
     </div>
   </div>
@@ -108,6 +108,19 @@ Yue Huang, Jiawen Shi, Yuan Li, Chenrui Fan, Siyuan Wu, **Qihui Zhang**, Yixin L
 </div>
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">Preprint</div>
+      <img src='images/GUI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**GUI-World: A Dataset for GUI-oriented Multimodal LLM-based Agents** [[PDF]](https://arxiv.org/pdf/2406.10819) [[Github]](https://github.com/Dongping-Chen/GUI-World) [[Website]](https://gui-world.github.io)
+
+Dongping Chen \*, Yue Huang \*, Siyuan Wu, Jingyu Tang, Liuyi Chen, Yilin Bai, Zhigang He, Chenlong Wang, Huichi Zhou, Yiqiang Li, Tianshuo Zhou, Yue Yu, Chujie Gao, **Qihui Zhang**, Yi Gui, Zhen Li, Yao Wan†, Pan Zhou†, Jianfeng Gao, Lichao Sun
+
+</div>
+</div>
+
 
 
 
@@ -140,6 +153,10 @@ Yue Huang, Jiawen Shi, Yuan Li, Chenrui Fan, Siyuan Wu, **Qihui Zhang**, Yixin L
 
 # 💻 Internships
 - *2024.08 - 2024.12 (now)*, Visual Technology Lab in Alibaba <a href = 'https://damo.alibaba.com/'>DAMO Academy</a>, China.
+
+
+# 💬 Services
+- 2025.09, Reviewer for ICLR 2025
 
 
 <!-- 
