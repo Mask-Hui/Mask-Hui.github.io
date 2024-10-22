@@ -27,6 +27,7 @@ Since August 2024, I have been interning as an algorithm engineer at the Visual 
 # 🔥 News
 - *2024.09.29:* &nbsp;🎉🎉 I will continue my research career and study at Peking University, See you in Shenzhen in 2025.09!
 - *2024.09.25:* &nbsp;🎉🎉 HonestyLLM has been accepted by **NeurIPS** 2024! Congratulations to [Chujie](https://flossiee.github.io/)!
+- *2024.07.04:* &nbsp;🎉🎉 Cliff has been accepted by **ECAI** 2024! Congratulations to Xiao!
 - *2024.05.02:* &nbsp;🎉🎉 TrustLLM has been accepted by **ICML** 2024! Congratulations to [Yue](https://howiehwong.github.io/)!
 - *2024.05.02:* &nbsp;🎉🎉 MLLM-as-a-Judge has been accepted by **ICML** 2024 **(Oral)**! Congratulations to [Dongping](https://dongping-chen.github.io/)! 
 - *2024.03.14:* &nbsp;🎉🎉 Mixcase has been accepted by **NAACL** 2024 Findings! Congratulations to [Chujie](https://flossiee.github.io/), [Dongping](https://dongping-chen.github.io/)! 
@@ -35,6 +36,8 @@ Since August 2024, I have been interning as an algorithm engineer at the Visual 
 
 
 # 📝 Publications 
+
+ICLR 2024 | ISBI 2024 | NAACL 2024 | ICML 2024 | ECAI 2024 | NeurIPS 2024
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/Honesty1_architecture.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -121,8 +124,15 @@ Dongping Chen \*, Yue Huang \*, Siyuan Wu, Jingyu Tang, Liuyi Chen, Yilin Bai, Z
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div><img src='images/ECAI-pipeline.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Cliff: Leveraging Ambiguous Samples for Enhanced Test-Time Adaptation](https://ebooks.iospress.nl/volumearticle/69639)
 
+Xiao Chen \*, **Qihui Zhang** \*, Yan Wang (*: equal contribution)
+
+</div>
+</div>
 
 
 <!-- 
@@ -133,7 +143,7 @@ Dongping Chen \*, Yue Huang \*, Siyuan Wu, Jingyu Tang, Liuyi Chen, Yilin Bai, Z
 
 -->
 
-- [Triplet-constraint Transformer with Multi-scale Refinement for Dose Prediction in Radiotherapy](https://github.com)
+- [Triplet-constraint Transformer with Multi-scale Refinement for Dose Prediction in Radiotherapy](https://arxiv.org/pdf/2402.04566)
   Lu Wen \*, **Qihui Zhang** \*, Zhenghao Feng, Yuanyuan Xu, Xiao Chen, Jiliu Zhou, Yan Wang <strong>ISBI 2024 (*: equal contribution)
 
 
