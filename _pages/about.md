@@ -24,6 +24,8 @@ My research interests include Human Alignment and Trustworthy AI. I have publish
 
 Since August 2024, I have been interning as an algorithm engineer at the Visual Technology Lab in Alibaba <a href = 'https://damo.alibaba.com/'><img src="images/DAMO.png" style='height: 1.2em;'> DAMO Academy</a>, focusing on foundational intelligent technologies. I was a visiting student at <a href = 'https://www2.lehigh.edu/'>Lehigh University</a> from April 2023 to May 2024, where I worked under the guidance of <a href = 'https://lichao-sun.github.io/'>Prof. Lichao Sun</a>. Before this, I was under the mentorship of <a href = 'https://cs.scu.edu.cn/info/1359/16745.htm'>Prof. Yan Wang</a> at Sichuan University.
 
+You can find out more about my publications at [Google Scholar](https://scholar.google.com/citations?user=ZdgtY0EAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Qihui-Zhang/46324457), and ResearchGate (coming soon).
+
 # 🔥 News
 - *2024.09.29:* &nbsp;🎉🎉 I will continue my research career and study at Peking University, See you in Shenzhen in 2025.09!
 - *2024.09.25:* &nbsp;🎉🎉 HonestyLLM has been accepted by **NeurIPS** 2024! Congratulations to [Chujie](https://flossiee.github.io/)!
