@@ -44,7 +44,7 @@ ICLR 2024 | ISBI 2024 | NAACL 2024 | ICML 2024 | ECAI 2024 | NeurIPS 2024
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/Honesty1_architecture.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[The Best of Both Worlds: Toward an Honest and Helpful Large Language Model](https://arxiv.org/pdf/2406.00380)
+[HonestLLM: Toward an Honest and Helpful Large Language Model](https://arxiv.org/pdf/2406.00380)
 
 Chujie Gao \*, **Qihui Zhang** \*, Dongping Chen\*, Siyuan Wu\*, Yue Huang, Zhengyan Fu, Yao Wan, Xiangliang Zhang, Lichao Sun (*: equal contribution)
 
@@ -119,7 +119,7 @@ Yue Huang, Jiawen Shi, Yuan Li, Chenrui Fan, Siyuan Wu, **Qihui Zhang**, Yixin L
       <img src='images/GUI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**GUI-World: A Dataset for GUI-oriented Multimodal LLM-based Agents** [[PDF]](https://arxiv.org/pdf/2406.10819) [[Github]](https://github.com/Dongping-Chen/GUI-World) [[Website]](https://gui-world.github.io)
+[GUI-World: A Dataset for GUI-oriented Multimodal LLM-based Agents](https://arxiv.org/pdf/2406.10819) [[Github]](https://github.com/Dongping-Chen/GUI-World) [[Website]](https://gui-world.github.io)
 
 Dongping Chen \*, Yue Huang \*, Siyuan Wu, Jingyu Tang, Liuyi Chen, Yilin Bai, Zhigang He, Chenlong Wang, Huichi Zhou, Yiqiang Li, Tianshuo Zhou, Yue Yu, Chujie Gao, **Qihui Zhang**, Yi Gui, Zhen Li, Yao Wan†, Pan Zhou†, Jianfeng Gao, Lichao Sun
 
@@ -145,8 +145,15 @@ Xiao Chen \*, **Qihui Zhang** \*, Yan Wang (*: equal contribution)
 
 -->
 
+- [Unigen: A unified framework for textual dataset generation using large language models](https://arxiv.org/pdf/2406.18966)
+  Siyuan Wu, Yue Huang, Chujie Gao, Dongping Chen, **Qihui Zhang**, Yao Wan, Tianyi Zhou, Xiangliang Zhang, Jianfeng Gao, Chaowei Xiao, Lichao Sun
+
+- [Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge](https://arxiv.org/pdf/2410.02736)
+  Jiayi Ye, Yanbo Wang, Yue Huang, Dongping Chen, **Qihui Zhang**, Nuno Moniz, Tian Gao, Werner Geyer, Chao Huang, Pin-Yu Chen, Nitesh V Chawla, Xiangliang Zhang
+
 - [Triplet-constraint Transformer with Multi-scale Refinement for Dose Prediction in Radiotherapy](https://arxiv.org/pdf/2402.04566)
   Lu Wen \*, **Qihui Zhang** \*, Zhenghao Feng, Yuanyuan Xu, Xiao Chen, Jiliu Zhou, Yan Wang <strong>ISBI 2024 (*: equal contribution)
+
 
 
 # 🎖 Honors and Awards
