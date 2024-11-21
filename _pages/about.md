@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hello, I’m Qihui Zhang (张祺珲), an undergraduate student at <a href='https://www.scu.edu.cn/'>Sichuan University</a>. My GPA is **3.91**/4.00, ranked **2% (5/210)** in the grade. I’m currently in my fourth year of undergraduate studies. I will begin my Master’s program at <a href = 'https://www.ece.pku.edu.cn/' >the School of Electronic and Computer Engineering, <img src="images/pku.png" style='width: 1.2em;'>Peking University</a> in September 2025.
+Hello, I’m Qihui Zhang (张祺珲), an undergraduate student. My GPA is **3.91**/4.00, ranked **2% (5/210)** in the grade. I’m currently in my fourth year of undergraduate studies. I will begin my Master’s program at <a href = 'https://www.ece.pku.edu.cn/' >the School of Electronic and Computer Engineering, <img src="images/pku.png" style='width: 1.2em;'>Peking University</a> in September 2025.
 
 My research interests include Human Alignment and Trustworthy AI. I have published 10+ papers at the international AI conferences with total <a href='https://scholar.google.com/citations?user=ZdgtY0EAAAAJ'> Google Scholar citations <strong><span id='total_cit'>400+</span></strong></a> ( <a href='https://scholar.google.com/citations?user=ZdgtY0EAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FMask-Hui%2FMask-Hui.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -168,7 +168,11 @@ Xiao Chen \*, **Qihui Zhang** \*, Yan Wang (*: equal contribution)
 - *2022.09* Sichuan Province Comprehensive Quality A-level Certificate.
 
 # 📖 Educations
-- *2020.09 - 2025.06 (now)*, BEng., Software Engineering, Sichuan University.
+<!-- 
+# - *2020.09 - 2025.06 (now)*, BEng., Software Engineering, Sichuan University.
+
+-->
+- 2025.09 - 2028.06 (expected), MSc., Computer Science and Technology, Peking University.
 
 # 💻 Internships
 - *2024.08 - 2024.12 (now)*, Visual Technology Lab in Alibaba <a href = 'https://damo.alibaba.com/'>DAMO Academy</a>, China.
