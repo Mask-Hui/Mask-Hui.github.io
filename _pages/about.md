@@ -165,7 +165,7 @@ Xiao Chen \*, **Qihui Zhang** \*, Yan Wang (*: equal contribution)
 - *2024.05* National LanQiao Cup Algorithm Competition (Python Group) **- Provincial First Prize**.
 - *2022.10* National College Student Mathematical Modeling Competition **- Provincial First Prize**.
 - *2023.10* Undergraduate Honours Bachelor's Degree Program.
-- *2022.09* Sichuan Province Comprehensive Quality A-level Certificate.
+- *2022.09* Provincial Comprehensive Quality A-level Certificate.
 
 # 📖 Educations
 <!-- 
@@ -179,7 +179,8 @@ Xiao Chen \*, **Qihui Zhang** \*, Yan Wang (*: equal contribution)
 
 
 # 💬 Services
-- 2025.09, Reviewer for ICLR 2025
+- 2024.09, Reviewer for ICLR 2025
+- 2024.12, Reviewer for ACM Transactions on Information Systems
 
 
 <!-- 
