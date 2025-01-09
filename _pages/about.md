@@ -27,6 +27,7 @@ Since August 2024, I have been interning as an algorithm engineer at the Visual 
 You can find out more about my publications at [Google Scholar](https://scholar.google.com/citations?user=ZdgtY0EAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Qihui-Zhang/46324457), and ResearchGate (coming soon).
 
 # 🔥 News
+- *2024.09.29:* &nbsp;🎉🎉 Three papers have been accepted by NeurIPSW 2024!
 - *2024.09.29:* &nbsp;🎉🎉 I will continue my research career and study at **Peking University**, See you in Shenzhen in 2025.09!
 - *2024.09.25:* &nbsp;🎉🎉 HonestLLM has been accepted by **NeurIPS** 2024! Congratulations to [Chujie](https://flossiee.github.io/)!
 - *2024.08.25:* &nbsp;🎉🎉 I have started my internship in **Alibaba DAMO Academy**!
