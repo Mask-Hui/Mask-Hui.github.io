@@ -29,7 +29,7 @@ You can find out more about my publications at [Google Scholar](https://scholar.
 # 🔥 News
 - *2024.09.29:* &nbsp;🎉🎉 I will continue my research career and study at **Peking University**, See you in Shenzhen in 2025.09!
 - *2024.09.25:* &nbsp;🎉🎉 HonestLLM has been accepted by **NeurIPS** 2024! Congratulations to [Chujie](https://flossiee.github.io/)!
-- *2024.08.25:* &nbsp;🎉🎉 I have been interning in **Alibaba DAMO Academy**!
+- *2024.08.25:* &nbsp;🎉🎉 I have started my internship in **Alibaba DAMO Academy**!
 - *2024.07.04:* &nbsp;🎉🎉 Cliff has been accepted by **ECAI** 2024! Congratulations to [Xiao](https://scholar.google.com/citations?user=kFWimw4AAAAJ)!
 - *2024.05.02:* &nbsp;🎉🎉 TrustLLM has been accepted by **ICML** 2024! Congratulations to [Yue](https://howiehwong.github.io/)!
 - *2024.05.02:* &nbsp;🎉🎉 MLLM-as-a-Judge has been accepted by **ICML** 2024 **(Oral)**! Congratulations to [Dongping](https://dongping-chen.github.io/)! 
