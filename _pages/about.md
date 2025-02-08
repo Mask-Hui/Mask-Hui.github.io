@@ -27,7 +27,7 @@ Since August 2024, I have been interning as an algorithm engineer at the Visual 
 You can find out more about my publications at [Google Scholar](https://scholar.google.com/citations?user=ZdgtY0EAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Qihui-Zhang/46324457), and ResearchGate (coming soon).
 
 # 🔥 News
-- *2024.09.29:* &nbsp;🎉🎉 Three papers have been accepted by NeurIPSW 2024!
+- *2025.01.23:* &nbsp;🎉🎉 Three papers have been accepted by **ICLR** 2025!
 - *2024.09.29:* &nbsp;🎉🎉 I will continue my research career and study at **Peking University**, See you in Shenzhen in 2025.09!
 - *2024.09.25:* &nbsp;🎉🎉 HonestLLM has been accepted by **NeurIPS** 2024! Congratulations to [Chujie](https://flossiee.github.io/)!
 - *2024.08.25:* &nbsp;🎉🎉 I have started my internship in **Alibaba DAMO Academy**!
@@ -41,7 +41,7 @@ You can find out more about my publications at [Google Scholar](https://scholar.
 
 # 📝 Publications 
 
-ICLR 2024 | ISBI 2024 | NAACL 2024 | ICML 2024 | ECAI 2024 | NeurIPS 2024
+ICLR 2024 | ISBI 2024 | NAACL 2024 | ICML 2024 | ECAI 2024 | NeurIPS 2024 | ICLR 2025
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/Honesty1_architecture.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -117,7 +117,7 @@ Yue Huang, Jiawen Shi, Yuan Li, Chenrui Fan, Siyuan Wu, **Qihui Zhang**, Yixin L
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><div class="badge">Preprint</div>
+    <div><div class="badge">ICLR 2025</div>
       <img src='images/GUI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -148,10 +148,10 @@ Xiao Chen \*, **Qihui Zhang** \*, Yan Wang (*: equal contribution)
 -->
 
 - [Unigen: A unified framework for textual dataset generation using large language models](https://arxiv.org/pdf/2406.18966)
-  Siyuan Wu, Yue Huang, Chujie Gao, Dongping Chen, **Qihui Zhang**, Yao Wan, Tianyi Zhou, Xiangliang Zhang, Jianfeng Gao, Chaowei Xiao, Lichao Sun
+  Siyuan Wu, Yue Huang, Chujie Gao, Dongping Chen, **Qihui Zhang**, Yao Wan, Tianyi Zhou, Xiangliang Zhang, Jianfeng Gao, Chaowei Xiao, Lichao Sun. <strong>ICLR 2025
 
 - [Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge](https://arxiv.org/pdf/2410.02736)
-  Jiayi Ye, Yanbo Wang, Yue Huang, Dongping Chen, **Qihui Zhang**, Nuno Moniz, Tian Gao, Werner Geyer, Chao Huang, Pin-Yu Chen, Nitesh V Chawla, Xiangliang Zhang
+  Jiayi Ye, Yanbo Wang, Yue Huang, Dongping Chen, **Qihui Zhang**, Nuno Moniz, Tian Gao, Werner Geyer, Chao Huang, Pin-Yu Chen, Nitesh V Chawla, Xiangliang Zhang. <strong>ICLR 2025
 
 - [Triplet-constraint Transformer with Multi-scale Refinement for Dose Prediction in Radiotherapy](https://arxiv.org/pdf/2402.04566)
   Lu Wen \*, **Qihui Zhang** \*, Zhenghao Feng, Yuanyuan Xu, Xiao Chen, Jiliu Zhou, Yan Wang <strong>ISBI 2024 (*: equal contribution)
