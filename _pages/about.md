@@ -24,7 +24,7 @@ My research interests include Human Alignment, Multi-modal, and Trustworthy AI. 
 
 Since August 2024, I have been interning as an algorithm engineer at the Visual Technology Lab in Alibaba <a href = 'https://damo.alibaba.com/'><img src="images/DAMO.png" style='height: 1.2em;'> DAMO Academy</a>, focusing on foundational intelligent technologies. I was a visiting student at <a href = 'https://www2.lehigh.edu/'>Lehigh University</a> from April 2023 to May 2024, where I worked under the guidance of <a href = 'https://lichao-sun.github.io/'>Prof. Lichao Sun</a>. Before this, I was under the mentorship of <a href = 'https://cs.scu.edu.cn/info/1359/16745.htm'>Prof. Yan Wang</a>.
 
-You can find out more about my publications at [Google Scholar](https://scholar.google.com/citations?user=ZdgtY0EAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Qihui-Zhang/46324457), and ResearchGate (coming soon).
+You can find out more about my publications at [Google Scholar](https://scholar.google.com/citations?user=ZdgtY0EAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Qihui-Zhang/46324457), and [ResearchGate](https://www.researchgate.net/profile/Qihui-Zhang-13/research).
 
 # 🔥 News
 - *2025.01.23:* &nbsp;🎉🎉 Three papers have been accepted by **ICLR** 2025!
