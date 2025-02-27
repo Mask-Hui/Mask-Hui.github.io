@@ -27,6 +27,7 @@ Since August 2024, I have been interning as an algorithm engineer at the Visual 
 You can find out more about my publications at [Google Scholar](https://scholar.google.com/citations?user=ZdgtY0EAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Qihui-Zhang/46324457), and [ResearchGate](https://www.researchgate.net/profile/Qihui-Zhang-13/research).
 
 # 🔥 News
+- *2025.02.27:* &nbsp;🎉🎉 UPME have been accepted by **CVPR** 2025!
 - *2025.01.23:* &nbsp;🎉🎉 Three papers have been accepted by **ICLR** 2025!
 - *2024.09.29:* &nbsp;🎉🎉 I will continue my research career and study at **Peking University**, See you in Shenzhen in 2025.09!
 - *2024.09.25:* &nbsp;🎉🎉 HonestLLM has been accepted by **NeurIPS** 2024! Congratulations to [Chujie](https://flossiee.github.io/)!
@@ -41,7 +42,12 @@ You can find out more about my publications at [Google Scholar](https://scholar.
 
 # 📝 Publications 
 
-ICLR 2024 | ISBI 2024 | NAACL 2024 | ICML 2024 | ECAI 2024 | NeurIPS 2024 | ICLR 2025
+| CVPR 2025  | ICML 2024 | NeurIPS 2024 | ICLR 2025 |
+| NAACL 2024 | ICLR 2024 | ECAI 2024    | ISBI 2024 |
+
+- UPME: An Unsupervised Peer Review Framework for Multimodal Large Language Model Evaluation
+  **Qihui Zhang** *, Munan Ning *, Zheyuan Liu, Yanbo Wang, Jiayi Ye, Yue Huang, Shuo Yang, Xiao Chen, Yibing Song, Li Yuan. CVPR 2025
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/Honesty1_architecture.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
