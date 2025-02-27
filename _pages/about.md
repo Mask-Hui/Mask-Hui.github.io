@@ -165,7 +165,7 @@ Xiao Chen \*, **Qihui Zhang** \*, Yan Wang (*: equal contribution)
 
 
 # 🎖 Honors and Awards
-- *2021.10* National Scholarship.
+- *2024.10* National Scholarship.
 - *2024.01* National College Computer Ability Challenge - **National First Prize**.
 - *2024.07* Chinese Collegiate Computing Competition - **National Third Prize**.
 - *2022.10* International "Internet +" College Student Innovation and Entrepreneurship Competition - **National Third Prize**.
@@ -174,6 +174,7 @@ Xiao Chen \*, **Qihui Zhang** \*, Yan Wang (*: equal contribution)
 - *2022.10* National College Student Mathematical Modeling Competition **- Provincial First Prize**.
 - *2023.10* Undergraduate Honours Bachelor's Degree Program.
 - *2022.09* Provincial Comprehensive Quality A-level Certificate.
+- *2021.10* National Scholarship.
 
 # 📖 Educations
 <!-- 
@@ -187,9 +188,8 @@ Xiao Chen \*, **Qihui Zhang** \*, Yan Wang (*: equal contribution)
 
 
 # 💬 Services
-- 2024.09, Reviewer for ICLR 2025
-- 2024.12, Reviewer for ACM Transactions on Information Systems
-
+- Conference Reviewer for ICLR 2025, ICML 2025, ACL 2025
+- Journal Reviewer for ACM Transactions on Information Systems
 
 <!-- 
 # 💬 Invited Talks
