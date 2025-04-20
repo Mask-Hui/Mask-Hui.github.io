@@ -36,9 +36,6 @@ You can find out more about my publications at [Google Scholar](https://scholar.
 - *2024.05.02:* &nbsp;🎉🎉 TrustLLM has been accepted by **ICML** 2024! Congratulations to [Yue](https://howiehwong.github.io/)!
 - *2024.05.02:* &nbsp;🎉🎉 MLLM-as-a-Judge has been accepted by **ICML** 2024 **(Oral)**! Congratulations to [Dongping](https://dongping-chen.github.io/)! 
 - *2024.03.14:* &nbsp;🎉🎉 Mixtext has been accepted by **NAACL** 2024 Findings! Congratulations to [Chujie](https://flossiee.github.io/), [Dongping](https://dongping-chen.github.io/)! 
-- *2024.02.03:* &nbsp;🎉🎉 A paper has been accepted by **ISBI** 2024!
-- *2024.01.15:* &nbsp;🎉🎉 MetaTool has been accepted by **ICLR** 2024!
-
 
 # 📝 Publications 
 
@@ -191,11 +188,11 @@ Xiao Chen \*, **Qihui Zhang** \*, Yan Wang (*: equal contribution)
 - 2025.09 - 2028.06 (expected), MSc., Computer Science and Technology, Peking University.
 
 # 💻 Internships
-- *2024.08 - 2024.12 (now)*, Visual Technology Lab in Alibaba <a href = 'https://damo.alibaba.com/'>DAMO Academy</a>, China.
+- *2024.08 - now*, Visual Technology Lab in Alibaba <a href = 'https://damo.alibaba.com/'>DAMO Academy</a>, China.
 
 
 # 💬 Services
-- Conference Reviewer for ICLR 2025, ICML 2025, ACL 2025
+- Conference Reviewer for ICLR 2025, ICML 2025, ACL 2025, NeurIPS 2025
 - Journal Reviewer for ACM Transactions on Information Systems
 
 <!-- 
