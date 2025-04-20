@@ -45,9 +45,16 @@ You can find out more about my publications at [Google Scholar](https://scholar.
 | CVPR 2025  | ICML 2024 | NeurIPS 2024 | ICLR 2025 |
 | NAACL 2024 | ICLR 2024 | ECAI 2024    | ISBI 2024 |
 
-- UPME: An Unsupervised Peer Review Framework for Multimodal Large Language Model Evaluation
-  **Qihui Zhang** *, Munan Ning *, Zheyuan Liu, Yanbo Wang, Jiayi Ye, Yue Huang, Shuo Yang, Xiao Chen, Yibing Song, Li Yuan. CVPR 2025
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/UPME_pipeline-CR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[UPME: An Unsupervised Peer Review Framework for Multimodal Large Language Model Evaluation](https://arxiv.org/pdf/2503.14941)
+
+**Qihui Zhang** \*, Munan Ning \*, Zheyuan Liu, Yanbo Wang, Jiayi Ye, Yue Huang, Shuo Yang, Xiao Chen, Yibing Song, Li Yuan. (*: equal contribution)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/Honesty1_architecture.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
