@@ -202,5 +202,4 @@ Xiao Chen \*, **Qihui Zhang** \*, Yan Wang (*: equal contribution)
 
 -->
 
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=XpPddoCviMVH2FGdy5g57OTbDhqc8c_S_A4sk8cbmpE"></script>
-
+<a href="https://mapmyvisitors.com/web/1by88"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=2oex5D8qKbBfWJUKlE7fKLMjNMnbSwuTVbAniKBUy8w&cl=ffffff" /></a>
