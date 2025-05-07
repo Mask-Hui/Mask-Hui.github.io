@@ -124,6 +124,21 @@ Yue Huang, Jiawen Shi, Yuan Li, Chenrui Fan, Siyuan Wu, **Qihui Zhang**, Yixin L
 </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">ICLR 2025</div>
+      <img src='images/llm-judge-bias.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge](https://arxiv.org/abs/2410.02736)
+
+Jiayi Ye, Yanbo Wang, Yue Huang, Dongping Chen, **Qihui Zhang**, Pin-Yu Chen, Nitesh V. Chawla, Xiangliang Zhang 
+
+[![Website Visits](https://img.shields.io/badge/Github-Website-blue?style=flat&logo=github&logoColor=white)](https://llm-judge-bias.github.io/)
+[![Paper](https://img.shields.io/badge/Paper-PDF-blue)](https://arxiv.org/pdf/2410.02736)
+
+</div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
