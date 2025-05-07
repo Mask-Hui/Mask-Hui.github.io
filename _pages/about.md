@@ -39,7 +39,7 @@ You can find out more about my publications at [Google Scholar](https://scholar.
 
 # 📝 Publications 
 
-| CVPR 2025  | ICML 2024 | NeurIPS 2024 | ICLR 2025 |
+| CVPR 2025  | ICML 2024 * 2 | NeurIPS 2024 | ICLR 2025 * 3 |
 | NAACL 2024 | ICLR 2024 | ECAI 2024    | ISBI 2024 |
 
 
