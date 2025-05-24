@@ -140,6 +140,22 @@ Jiayi Ye, Yanbo Wang, Yue Huang, Dongping Chen, **Qihui Zhang**, Pin-Yu Chen, Ni
 </div>
 </div>
 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">ICLR 2025</div>
+      <img src='images/dagagen.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DataGen: Unified Synthetic Dataset Generation via Large Language Models](https://arxiv.org/pdf/2406.18966)
+
+Siyuan Wu, Yue Huang, Chujie Gao, Dongping Chen, **Qihui Zhang**, Yao Wan, Tianyi Zhou, Xiangliang Zhang, Jianfeng Gao, Chaowei Xiao, Lichao Sun.
+</div>
+</div>
+
+
+
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div><div class="badge">ICLR 2025</div>
@@ -170,12 +186,12 @@ Xiao Chen \*, **Qihui Zhang** \*, Yan Wang (*: equal contribution)
 </div>
 </div>
 
--->
+
 
 - [Unigen: A unified framework for textual dataset generation using large language models](https://arxiv.org/pdf/2406.18966)
   Siyuan Wu, Yue Huang, Chujie Gao, Dongping Chen, **Qihui Zhang**, Yao Wan, Tianyi Zhou, Xiangliang Zhang, Jianfeng Gao, Chaowei Xiao, Lichao Sun. <strong>ICLR 2025
 
-<!-- 
+
 - [Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge](https://arxiv.org/pdf/2410.02736)
   Jiayi Ye, Yanbo Wang, Yue Huang, Dongping Chen, **Qihui Zhang**, Nuno Moniz, Tian Gao, Werner Geyer, Chao Huang, Pin-Yu Chen, Nitesh V Chawla, Xiangliang Zhang. <strong>ICLR 2025
 -->
