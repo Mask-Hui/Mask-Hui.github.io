@@ -175,8 +175,10 @@ Xiao Chen \*, **Qihui Zhang** \*, Yan Wang (*: equal contribution)
 - [Unigen: A unified framework for textual dataset generation using large language models](https://arxiv.org/pdf/2406.18966)
   Siyuan Wu, Yue Huang, Chujie Gao, Dongping Chen, **Qihui Zhang**, Yao Wan, Tianyi Zhou, Xiangliang Zhang, Jianfeng Gao, Chaowei Xiao, Lichao Sun. <strong>ICLR 2025
 
+<!-- 
 - [Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge](https://arxiv.org/pdf/2410.02736)
   Jiayi Ye, Yanbo Wang, Yue Huang, Dongping Chen, **Qihui Zhang**, Nuno Moniz, Tian Gao, Werner Geyer, Chao Huang, Pin-Yu Chen, Nitesh V Chawla, Xiangliang Zhang. <strong>ICLR 2025
+-->
 
 - [Triplet-constraint Transformer with Multi-scale Refinement for Dose Prediction in Radiotherapy](https://arxiv.org/pdf/2402.04566)
   Lu Wen \*, **Qihui Zhang** \*, Zhenghao Feng, Yuanyuan Xu, Xiao Chen, Jiliu Zhou, Yan Wang <strong>ISBI 2024 (*: equal contribution)
