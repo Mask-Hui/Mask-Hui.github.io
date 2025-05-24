@@ -144,7 +144,7 @@ Jiayi Ye, Yanbo Wang, Yue Huang, Dongping Chen, **Qihui Zhang**, Pin-Yu Chen, Ni
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div><div class="badge">ICLR 2025</div>
-      <img src='images/dagagen.jpg' alt="sym" width="100%"></div></div>
+      <img src='images/datagen.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DataGen: Unified Synthetic Dataset Generation via Large Language Models](https://arxiv.org/pdf/2406.18966)
