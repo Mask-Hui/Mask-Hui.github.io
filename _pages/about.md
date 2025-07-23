@@ -22,6 +22,7 @@ I am Qihui Zhang (张祺珲), a first-year master's student at the <a href = 'ht
 My research is dedicated to building more capable and reliable AI systems, with interests in Human Alignment, Multi-modal Learning, and Trustworthy AI. This work has resulted in over 10 publications at top-tier conferences (e.g., CVPR, ICML, NeurIPS) and has garnered <a href='https://scholar.google.com/citations?user=ZdgtY0EAAAAJ'>over <strong><span id='total_cit'>1000+ citations</span></strong></a> ( <a href='https://scholar.google.com/citations?user=ZdgtY0EAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FMask-Hui%2FMask-Hui.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). citations</a>. My academic and technical excellence has also been recognized through prestigious honors, including the National Scholarship (twice), multiple national first-place awards in computing and mathematical modeling competitions. For more details on my publication, please visit my profiles on [Google Scholar](https://scholar.google.com/citations?user=ZdgtY0EAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Qihui-Zhang/46324457), and [ResearchGate](https://www.researchgate.net/profile/Qihui-Zhang-13/research).
 
 
+
 # 🔥 News
 - *2025.02.27:* &nbsp;🎉🎉 UPME have been accepted by **CVPR** 2025!
 - *2025.01.23:* &nbsp;🎉🎉 Three papers have been accepted by **ICLR** 2025!
