@@ -24,6 +24,7 @@ My research is dedicated to building more capable and reliable AI systems, with 
 
 
 # 🔥 News
+- *2025.09.15:* &nbsp;🎉🎉 CoT-lized Diffusion have been accepted by **NeurIPS** 2025!
 - *2025.02.27:* &nbsp;🎉🎉 UPME have been accepted by **CVPR** 2025!
 - *2025.01.23:* &nbsp;🎉🎉 Three papers have been accepted by **ICLR** 2025!
 - *2024.09.29:* &nbsp;🎉🎉 I will continue my research career and study at **Peking University**, See you in Shenzhen in 2025.09!
@@ -36,8 +37,10 @@ My research is dedicated to building more capable and reliable AI systems, with 
 
 # 📝 Publications 
 
-| CVPR 2025  | ICML 2024 * 2 | NeurIPS 2024 | ICLR 2025 * 3 |
-| NAACL 2024 | ICLR 2024 | ECAI 2024    | ISBI 2024 |
+| CVPR 2025  | ICML 2024 * 2 | NeurIPS 2025 |
+| NeurIPS 2024 | ICLR 2025 * 3 | NAACL 2024 | 
+| ICLR 2024 | ECAI 2024    | ISBI 2024 |
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/UPME_pipeline-CR.png' alt="sym" width="100%"></div></div>
@@ -61,6 +64,7 @@ Chujie Gao \*, **Qihui Zhang** \*, Dongping Chen\*, Siyuan Wu\*, Yue Huang, Zhen
 
 </div>
 </div>
+
 
 
 <div class='paper-box'>
@@ -113,6 +117,19 @@ Dongping Chen \*, Ruoxi Chen \*, Shilin Zhang \*, Yinuo Liu \*, Yaochen Wang \*,
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/Pipeline_shuo_v2_page-0001.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CoT-lized Diffusion: Let's Reinforce T2I Generation Step-by-step](https://arxiv.org/abs/2507.04451)
+
+Zheyuan Liu, Munan Ning, **Qihui Zhang**, Shuo Yang, Zhongrui Wang, Yiwei Yang, Xianzhe Xu, Yibing Song, Weihua Chen, Fan Wang, Li Yuan
+
+</div>
+</div>
+
 
 [MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use](https://arxiv.org/pdf/2310.03128.pdf)
 
