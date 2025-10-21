@@ -72,8 +72,7 @@ Chujie Gao \*, **Qihui Zhang** \*, Dongping Chen\*, Siyuan Wu\*, Yue Huang, Zhen
 [Uniworld-V2: Reinforce Image Editing with Diffusion Negative-aware Finetuning and MLLM Implicit Feedback](https://arxiv.org/abs/2510.16888)
 
 Zongjian Li \*, Zheyuan Liu \*, **Qihui Zhang** \*, Bin Lin \*, Shenghai Yuan, Zhiyuan Yan, Yang Ye, Wangbo Yu, Yuwei Niu, Li Yuan (*: equal contribution)
-
-[**Dataset & Code**](https://github.com/Flossiee/HonestyLLM)
+[**Model Weights**](https://huggingface.co/collections/chestnutlzj/edit-r1-68dc3ecce74f5d37314d59f4) | [**Code**](https://github.com/PKU-YuanGroup/UniWorld-V2)
 
 </div>
 </div>
