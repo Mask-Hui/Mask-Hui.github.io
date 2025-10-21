@@ -66,6 +66,18 @@ Chujie Gao \*, **Qihui Zhang** \*, Dongping Chen\*, Siyuan Wu\*, Yue Huang, Zhen
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/Edit-R1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Uniworld-V2: Reinforce Image Editing with Diffusion Negative-aware Finetuning and MLLM Implicit Feedback](https://arxiv.org/abs/2510.16888)
+
+Zongjian Li \*, Zheyuan Liu \*, **Qihui Zhang** \*, Bin Lin \*, Shenghai Yuan, Zhiyuan Yan, Yang Ye, Wangbo Yu, Yuwei Niu, Li Yuan (*: equal contribution)
+
+[**Dataset & Code**](https://github.com/Flossiee/HonestyLLM)
+
+</div>
+</div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -109,15 +121,6 @@ Dongping Chen \*, Ruoxi Chen \*, Shilin Zhang \*, Yinuo Liu \*, Yaochen Wang \*,
 </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">ICLR 2024</div>
-      <img src='images/metatool_00.png' alt="sym" width="100%">
-    </div>
-  </div>
-<div class='paper-box-text' markdown="1">
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/Pipeline_shuo_v2_page-0001.jpg' alt="sym" width="100%"></div></div>
@@ -129,6 +132,15 @@ Zheyuan Liu, Munan Ning, **Qihui Zhang**, Shuo Yang, Zhongrui Wang, Yiwei Yang, 
 
 </div>
 </div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICLR 2024</div>
+      <img src='images/metatool_00.png' alt="sym" width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
 
 
 [MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use](https://arxiv.org/pdf/2310.03128.pdf)
