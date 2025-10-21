@@ -53,6 +53,24 @@ My research is dedicated to building more capable and reliable AI systems, with 
 </div>
 </div>
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/ASFT_pipeline.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AsFT: Anchoring Safety During LLM Fine-Tuning Within Narrow Safety Basin](https://arxiv.org/abs/2506.08473)
+
+Shuo Yang \*, **Qihui Zhang** \*, Yuyang Liu, Yue Huang, Xiaojun Jia, Kunpeng Ning, Jiayu Yao, Jigang Wang, Hailiang Dai, Yibing Song, Li Yuan (*: equal contribution)
+
+[**Code**](https://github.com/PKU-YuanGroup/AsFT)
+
+</div>
+</div>
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/Honesty1_architecture.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -64,6 +82,9 @@ Chujie Gao \*, **Qihui Zhang** \*, Dongping Chen\*, Siyuan Wu\*, Yue Huang, Zhen
 
 </div>
 </div>
+
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/Edit-R1.jpg' alt="sym" width="100%"></div></div>
