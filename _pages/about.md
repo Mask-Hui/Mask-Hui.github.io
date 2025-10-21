@@ -93,6 +93,7 @@ Chujie Gao \*, **Qihui Zhang** \*, Dongping Chen\*, Siyuan Wu\*, Yue Huang, Zhen
 [Uniworld-V2: Reinforce Image Editing with Diffusion Negative-aware Finetuning and MLLM Implicit Feedback](https://arxiv.org/abs/2510.16888)
 
 Zongjian Li \*, Zheyuan Liu \*, **Qihui Zhang** \*, Bin Lin \*, Shenghai Yuan, Zhiyuan Yan, Yang Ye, Wangbo Yu, Yuwei Niu, Li Yuan (*: equal contribution)
+
 [**Model Weights**](https://huggingface.co/collections/chestnutlzj/edit-r1-68dc3ecce74f5d37314d59f4) | [**Code**](https://github.com/PKU-YuanGroup/UniWorld-V2)
 
 </div>
@@ -137,7 +138,7 @@ Yue Huang \*, Lichao Sun \*, Haoran Wang \*, Siyuan Wu \*, **Qihui Zhang** \*, C
 
 Dongping Chen \*, Ruoxi Chen \*, Shilin Zhang \*, Yinuo Liu \*, Yaochen Wang \*, Huichi Zhou \*, **Qihui Zhang** \*, Pan Zhou, Yao Wan, Lichao Sun (*: equal contribution)
 
-[**Code**](https://github.com/Dongping-Chen/MLLM-Judge) | [**Website**](https://mllm-judge.github.io/) | [**Data**](https://huggingface.co/datasets/shuaishuaicdp/MLLM-Judge)
+[**Code**](https://github.com/Dongping-Chen/MLLM-Judge) | [**Website**](https://mllm-judge.github.io/) | [**Dataset**](https://huggingface.co/datasets/shuaishuaicdp/MLLM-Judge)
 </div>
 </div>
 
