@@ -19,15 +19,15 @@ redirect_from:
 
 I am Qihui Zhang (张祺珲), a first-year master's student at the <a href = 'https://www.ece.pku.edu.cn/' >School of Electronic and Computer Engineering, <img src="images/pku.png" style='width: 1.2em;'>Peking University</a>, where I am fortunate to be advised by <a href = 'https://yuanli2333.github.io/'>Prof. Li Yuan</a>. You can reach me via email at `qhzhang25@stu.pku.edu.cn`. Previously, I was an Algorithm Engineer Intern at the Visual Technology Lab of Alibaba's <a href = 'https://damo.alibaba.com/'><img src="images/DAMO.png" style='height: 1.2em;'>DAMO Academy</a> (Aug 2024 - Aug 2025), mentored by Dr. <a href = 'https://ybsong00.github.io'>Yibing Song</a>. My work there on foundational intelligent technologies allows me to bridge academic theory with impactful applications. 
 
-My research is dedicated to building more capable and reliable AI systems, with interests in Human Alignment, Multi-modal Learning, and Trustworthy AI. This work has resulted in over 10 publications at top-tier conferences (e.g., CVPR, ICML, NeurIPS) and has garnered <a href='https://scholar.google.com/citations?user=ZdgtY0EAAAAJ'>over <strong><span id='total_cit'>1400+ citations</span></strong></a> ( <a href='https://scholar.google.com/citations?user=ZdgtY0EAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FMask-Hui%2FMask-Hui.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). citations</a>. My academic and technical excellence has also been recognized through prestigious honors, including the National Scholarship (twice), multiple national first-place awards in computing and mathematical modeling competitions. For more details on my publication, please visit my profiles on [Google Scholar](https://scholar.google.com/citations?user=ZdgtY0EAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Qihui-Zhang/46324457), and [ResearchGate](https://www.researchgate.net/profile/Qihui-Zhang-13/research).
-
+My research is dedicated to building more capable and reliable AI systems, with interests in Human Alignment, Multi-modal Learning, and Trustworthy AI. This work has resulted in over 10 publications at top-tier conferences (e.g., CVPR, ICML, NeurIPS) and has garnered <a href='https://scholar.google.com/citations?user=ZdgtY0EAAAAJ'>over <strong><span id='total_cit'>1500+ citations</span></strong></a> ( <a href='https://scholar.google.com/citations?user=ZdgtY0EAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FMask-Hui%2FMask-Hui.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). citations</a>. My academic and technical excellence has also been recognized through prestigious honors, including the National Scholarship (twice), multiple national first-place awards in computing and mathematical modeling competitions. For more details on my publication, please visit my profiles on [Google Scholar](https://scholar.google.com/citations?user=ZdgtY0EAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Qihui-Zhang/46324457), and [ResearchGate](https://www.researchgate.net/profile/Qihui-Zhang-13/research).
 
 
 # 🔥 News
+- *2025.10.21:* &nbsp;🎉🎉 We have published a technical report on UniWorld-V2 (Edit-R1)!
 - *2025.09.15:* &nbsp;🎉🎉 CoT-lized Diffusion have been accepted by **NeurIPS** 2025!
 - *2025.02.27:* &nbsp;🎉🎉 UPME have been accepted by **CVPR** 2025!
 - *2025.01.23:* &nbsp;🎉🎉 Three papers have been accepted by **ICLR** 2025!
-- *2024.09.29:* &nbsp;🎉🎉 I will continue my research career and study at **Peking University**, See you in Shenzhen in 2025.09!
+- *2024.09.29:* &nbsp;🎉🎉 I will continue my research career and study at **Peking University**!
 - *2024.09.25:* &nbsp;🎉🎉 HonestLLM has been accepted by **NeurIPS** 2024! Congratulations to [Chujie](https://flossiee.github.io/)!
 - *2024.08.25:* &nbsp;🎉🎉 I have started my internship in **Alibaba DAMO Academy**!
 - *2024.07.04:* &nbsp;🎉🎉 Cliff has been accepted by **ECAI** 2024! Congratulations to [Xiao](https://scholar.google.com/citations?user=kFWimw4AAAAJ)!
@@ -40,7 +40,6 @@ My research is dedicated to building more capable and reliable AI systems, with 
 | CVPR 2025  | ICML 2024 * 2 | NeurIPS 2025 |
 | NeurIPS 2024 | ICLR 2025 * 3 | NAACL 2024 | 
 | ICLR 2024 | ECAI 2024    | ISBI 2024 |
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/UPME_pipeline-CR.png' alt="sym" width="100%"></div></div>
