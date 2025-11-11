@@ -23,6 +23,7 @@ My research is dedicated to building more capable and reliable AI systems, with 
 
 
 # 🔥 News
+- *2025.10.21:* &nbsp;🎉🎉 AsFT has been accepted by **AAAI** 2026 **(Oral)**!
 - *2025.10.21:* &nbsp;🎉🎉 We have published a technical report on UniWorld-V2 (Edit-R1)!
 - *2025.09.15:* &nbsp;🎉🎉 CoT-lized Diffusion have been accepted by **NeurIPS** 2025!
 - *2025.02.27:* &nbsp;🎉🎉 UPME have been accepted by **CVPR** 2025!
@@ -37,9 +38,8 @@ My research is dedicated to building more capable and reliable AI systems, with 
 
 # 📝 Publications 
 
-| CVPR 2025  | ICML 2024 * 2 | NeurIPS 2025 |
-| NeurIPS 2024 | ICLR 2025 * 3 | NAACL 2024 | 
-| ICLR 2024 | ECAI 2024    | ISBI 2024 |
+| CVPR 2025  | NAACL 2024 | NeurIPS 2025 |AAAI 2026 * 2| NeurIPS 2024 | 
+| ICLR 2025 * 3 | ICML 2024 * 2 | ICLR 2024 | ECAI 2024 | ISBI 2024 |
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/UPME_pipeline-CR.png' alt="sym" width="100%"></div></div>
