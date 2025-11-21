@@ -37,16 +37,13 @@ My research focuses on building **Capable and Trustworthy AGI**, with specific i
 <details>
 <summary>Old News</summary>
 <ul>
-<li>2024.09 &nbsp;🎉 Started Master journey at Peking University.</li>
-<li>2024.08 &nbsp;🎉 Joined Alibaba DAMO Academy as Research Intern.</li>
-
-<li>2024.09.29: &nbsp;🎉🎉 I will continue my research career and study at **Peking University**!</li>
-<li>2024.09.25: &nbsp;🎉🎉 HonestLLM has been accepted by **NeurIPS** 2024! Congratulations to [Chujie](https://flossiee.github.io/)!</li>
-<li>2024.08.25: &nbsp;🎉🎉 I have started my internship in **Alibaba DAMO Academy**!</li>
-<li>2024.07.04: &nbsp;🎉🎉 Cliff has been accepted by **ECAI** 2024! Congratulations to [Xiao](https://scholar.google.com/citations?user=kFWimw4AAAAJ)!</li>
-<li>2024.05.02: &nbsp;🎉🎉 TrustLLM has been accepted by **ICML** 2024! Congratulations to [Yue](https://howiehwong.github.io/)!</li>
-<li>2024.05.02: &nbsp;🎉🎉 MLLM-as-a-Judge has been accepted by **ICML** 2024 **(Oral)**! Congratulations to [Dongping](https://dongping-chen.github.io/)! </li>
-<li>2024.03.14: &nbsp;🎉🎉 Mixtext has been accepted by **NAACL** 2024 Findings! Congratulations to [Chujie](https://flossiee.github.io/), [Dongping](https://dongping-chen.github.io/)! </li>
+  <li>2024.09.29: &nbsp;🎉🎉 I will continue my research career and study at <strong>Peking University</strong>!</li>
+  <li>2024.09.25: &nbsp;🎉🎉 HonestLLM has been accepted by <strong>NeurIPS</strong> 2024! Congratulations to <a href="https://flossiee.github.io/">Chujie</a>!</li>
+  <li>2024.08.25: &nbsp;🎉🎉 I have started my internship in <strong>Alibaba DAMO Academy</strong>!</li>
+  <li>2024.07.04: &nbsp;🎉🎉 Cliff has been accepted by <strong>ECAI</strong> 2024! Congratulations to <a href="https://scholar.google.com/citations?user=kFWimw4AAAAJ">Xiao</a>!</li>
+  <li>2024.05.02: &nbsp;🎉🎉 TrustLLM has been accepted by <strong>ICML</strong> 2024! Congratulations to <a href="https://howiehwong.github.io/">Yue</a>!</li>
+  <li>2024.05.02: &nbsp;🎉🎉 MLLM-as-a-Judge has been accepted by <strong>ICML</strong> 2024 <strong>(Oral)</strong>! Congratulations to <a href="https://dongping-chen.github.io/">Dongping</a>! </li>
+  <li>2024.03.14: &nbsp;🎉🎉 Mixtext has been accepted by <strong>NAACL</strong> 2024 Findings! Congratulations to <a href="https://flossiee.github.io/">Chujie</a>, <a href="https://dongping-chen.github.io/">Dongping</a>! </li>
 </ul>
 </details>
 
