@@ -26,22 +26,34 @@ My research focuses on building **Capable and Trustworthy AGI**, with specific i
 
 
 
-
-
+<span class='anchor' id='news'></span>
 # 🔥 News
 - *2025.10.21:* &nbsp;🎉🎉 AsFT has been accepted by **AAAI** 2026 **(Oral)**!
 - *2025.10.21:* &nbsp;🎉🎉 We have published a technical report on UniWorld-V2 (Edit-R1)!
 - *2025.09.15:* &nbsp;🎉🎉 CoT-lized Diffusion have been accepted by **NeurIPS** 2025!
 - *2025.02.27:* &nbsp;🎉🎉 UPME have been accepted by **CVPR** 2025!
 - *2025.01.23:* &nbsp;🎉🎉 Three papers have been accepted by **ICLR** 2025!
-- *2024.09.29:* &nbsp;🎉🎉 I will continue my research career and study at **Peking University**!
-- *2024.09.25:* &nbsp;🎉🎉 HonestLLM has been accepted by **NeurIPS** 2024! Congratulations to [Chujie](https://flossiee.github.io/)!
-- *2024.08.25:* &nbsp;🎉🎉 I have started my internship in **Alibaba DAMO Academy**!
-- *2024.07.04:* &nbsp;🎉🎉 Cliff has been accepted by **ECAI** 2024! Congratulations to [Xiao](https://scholar.google.com/citations?user=kFWimw4AAAAJ)!
-- *2024.05.02:* &nbsp;🎉🎉 TrustLLM has been accepted by **ICML** 2024! Congratulations to [Yue](https://howiehwong.github.io/)!
-- *2024.05.02:* &nbsp;🎉🎉 MLLM-as-a-Judge has been accepted by **ICML** 2024 **(Oral)**! Congratulations to [Dongping](https://dongping-chen.github.io/)! 
-- *2024.03.14:* &nbsp;🎉🎉 Mixtext has been accepted by **NAACL** 2024 Findings! Congratulations to [Chujie](https://flossiee.github.io/), [Dongping](https://dongping-chen.github.io/)! 
 
+<details>
+<summary>Old News</summary>
+<ul>
+<li>2024.09 &nbsp;🎉 Started Master journey at Peking University.</li>
+<li>2024.08 &nbsp;🎉 Joined Alibaba DAMO Academy as Research Intern.</li>
+
+<li>2024.09.29: &nbsp;🎉🎉 I will continue my research career and study at **Peking University**!</li>
+<li>2024.09.25: &nbsp;🎉🎉 HonestLLM has been accepted by **NeurIPS** 2024! Congratulations to [Chujie](https://flossiee.github.io/)!</li>
+<li>2024.08.25: &nbsp;🎉🎉 I have started my internship in **Alibaba DAMO Academy**!</li>
+<li>2024.07.04: &nbsp;🎉🎉 Cliff has been accepted by **ECAI** 2024! Congratulations to [Xiao](https://scholar.google.com/citations?user=kFWimw4AAAAJ)!</li>
+<li>2024.05.02: &nbsp;🎉🎉 TrustLLM has been accepted by **ICML** 2024! Congratulations to [Yue](https://howiehwong.github.io/)!</li>
+<li>2024.05.02: &nbsp;🎉🎉 MLLM-as-a-Judge has been accepted by **ICML** 2024 **(Oral)**! Congratulations to [Dongping](https://dongping-chen.github.io/)! </li>
+<li>2024.03.14: &nbsp;🎉🎉 Mixtext has been accepted by **NAACL** 2024 Findings! Congratulations to [Chujie](https://flossiee.github.io/), [Dongping](https://dongping-chen.github.io/)! </li>
+</ul>
+</details>
+
+
+
+
+<span class='anchor' id='publications'></span>
 # 📝 Publications 
 
 | CVPR 2025  | NAACL 2024 | NeurIPS 2025 |AAAI 2026 * 2| NeurIPS 2024 | 
@@ -251,7 +263,9 @@ Xiao Chen \*, **Qihui Zhang** \*, Yan Wang (*: equal contribution)
 
 
 
+<span class='anchor' id='honors'></span>
 # 🎖 Honors and Awards
+
 - *2024.10* National Scholarship.
 - *2024.01* National College Computer Ability Challenge - **National First Prize**.
 - *2024.07* Chinese Collegiate Computing Competition - **National Third Prize**.
@@ -263,7 +277,9 @@ Xiao Chen \*, **Qihui Zhang** \*, Yan Wang (*: equal contribution)
 - *2022.09* Provincial Comprehensive Quality A-level Certificate.
 - *2021.10* National Scholarship.
 
-# 📖 Educations
+
+<span class='anchor' id='education'></span>
+# 📖 Education
 <!-- 
 # - *2020.09 - 2025.06 (now)*, BEng., Software Engineering, Sichuan University.
 
