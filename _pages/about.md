@@ -28,7 +28,7 @@ My research focuses on building **Capable and Trustworthy AGI**, with specific i
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2025.10.21:* &nbsp;🎉🎉 TrustAGI has been accepted by **ICLR** 2026!
+- *2025.10.21:* &nbsp;🎉🎉 TrustGen has been accepted by **ICLR** 2026!
 - *2025.10.21:* &nbsp;🎉🎉 AsFT has been accepted by **AAAI** 2026 **(Oral)**!
 - *2025.10.21:* &nbsp;🎉🎉 We have published a technical report on UniWorld-V2 (Edit-R1)!
 - *2025.09.15:* &nbsp;🎉🎉 CoT-lized Diffusion have been accepted by **NeurIPS** 2025!
